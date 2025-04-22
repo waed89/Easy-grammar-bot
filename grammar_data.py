@@ -130,7 +130,6 @@ grammar_db = {
             "correct_answer": "The cat is under the table."
         }
     },
-    grammar_db = {
     "past simple": {
         "explanation": "يُستخدم للتعبير عن حدث حصل وانتهى في الماضي.",
         "examples": [
