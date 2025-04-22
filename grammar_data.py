@@ -254,4 +254,175 @@ grammar_db = {
             "correct_answer": 2
         }
     }
+    ,
+    "possessive adjectives": {
+        "explanation": "تُستخدم قبل الأسماء لتحديد الملكية: my, your, his, her, its, our, their",
+        "examples": [
+            "This is my book.",
+            "Their house is big.",
+            "Her name is Sara."
+        ],
+        "quiz": {
+            "question": "وش الجملة الصحيحة؟",
+            "options": [
+                "This is me book.",
+                "This is my book.",
+                "This is mine book."
+            ],
+            "correct_answer": 2
+        }
+    },
+    "possessive pronouns": {
+        "explanation": "ضمائر الملكية: mine, yours, his, hers, ours, theirs",
+        "examples": [
+            "This book is mine.",
+            "That car is hers.",
+            "The house is theirs."
+        ],
+        "quiz": {
+            "question": "وش ضمير الملكية؟",
+            "options": [
+                "my",
+                "mine",
+                "me"
+            ],
+            "correct_answer": 2
+        }
+    },
+    "question words": {
+        "explanation": "كلمات الأسئلة مثل: what, where, when, who, why, how",
+        "examples": [
+            "What is your name?",
+            "Where do you live?",
+            "When is your birthday?"
+        ],
+        "quiz": {
+            "question": "وش الجملة الصحيحة؟",
+            "options": [
+                "What you doing?",
+                "What are you doing?",
+                "What is you doing?"
+            ],
+            "correct_answer": 2
+        }
+    },
+    "there is / there are": {
+        "explanation": "تُستخدم للتعبير عن وجود شيء.",
+        "examples": [
+            "There is a book on the table.",
+            "There are three students.",
+            "There is some water."
+        ],
+        "quiz": {
+            "question": "وش الجملة الصحيحة؟",
+            "options": [
+                "There are a book.",
+                "There is a book.",
+                "There is books."
+            ],
+            "correct_answer": 2
+        }
+    },
+    "some / any": {
+        "explanation": "'Some' تستخدم في الجمل المثبتة، 'Any' في الأسئلة والنفي.",
+        "examples": [
+            "I have some friends.",
+            "Do you have any sugar?",
+            "She doesn't have any money."
+        ],
+        "quiz": {
+            "question": "وش الجملة الصحيحة؟",
+            "options": [
+                "I don't have some milk.",
+                "I don't have any milk.",
+                "I have any milk."
+            ],
+            "correct_answer": 2
+        }
+    },
+    "this / that / these / those": {
+        "explanation": "تُستخدم للإشارة: this/that للمفرد، these/those للجمع.",
+        "examples": [
+            "This is my phone.",
+            "Those are my shoes.",
+            "That is her bag."
+        ],
+        "quiz": {
+            "question": "وش الجملة الصحيحة؟",
+            "options": [
+                "These is nice.",
+                "Those is nice.",
+                "Those are nice."
+            ],
+            "correct_answer": 3
+        }
+    },
+    "to be verb": {
+        "explanation": "أفعال to be هي: am, is, are",
+        "examples": [
+            "I am a student.",
+            "She is happy.",
+            "They are here."
+        ],
+        "quiz": {
+            "question": "وش الجملة الصحيحة؟",
+            "options": [
+                "He are teacher.",
+                "He is teacher.",
+                "He is a teacher."
+            ],
+            "correct_answer": 3
+        }
+    },
+    "can / could": {
+        "explanation": "'Can' للمقدرة الحاضرة، 'Could' للماضي أو الاحتمالية.",
+        "examples": [
+            "I can swim.",
+            "She could read at age 4.",
+            "Can you help me?"
+        ],
+        "quiz": {
+            "question": "وش الجملة اللي تستخدم Can؟",
+            "options": [
+                "She can plays piano.",
+                "She can play piano.",
+                "She cans play piano."
+            ],
+            "correct_answer": 2
+        }
+    },
+    "adverbs of frequency": {
+        "explanation": "تُستخدم لتوضيح عدد تكرار الفعل: always, usually, often, sometimes, never",
+        "examples": [
+            "I always do my homework.",
+            "She usually wakes up early.",
+            "They never eat fast food."
+        ],
+        "quiz": {
+            "question": "وش الجملة الصحيحة؟",
+            "options": [
+                "He always is late.",
+                "He is always late.",
+                "He late always is."
+            ],
+            "correct_answer": 2
+        }
+    },
+    "imperatives": {
+        "explanation": "تُستخدم للأوامر أو التعليمات.",
+        "examples": [
+            "Close the door.",
+            "Please sit down.",
+            "Don’t be late."
+        ],
+        "quiz": {
+            "question": "وش الجملة اللي فيها أمر؟",
+            "options": [
+                "She closes the door.",
+                "Close the door.",
+                "He is closing the door."
+            ],
+            "correct_answer": 2
+        }
+    }
 }
