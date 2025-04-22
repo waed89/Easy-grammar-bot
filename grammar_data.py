@@ -1,4 +1,4 @@
-# grammar_data.py
+
 grammar_db = {
     "past simple": {
         "explanation": "يُستخدم للتعبير عن حدث حصل وانتهى في الماضي.",
