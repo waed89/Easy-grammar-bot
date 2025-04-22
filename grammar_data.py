@@ -129,7 +129,7 @@ grammar_db = {
             "options": ["The cat is in the desk.", "The cat is on the table.", "The cat is under the table."],
             "correct_answer": "The cat is under the table."
         }
-    }
+    },
     grammar_db = {
     "past simple": {
         "explanation": "يُستخدم للتعبير عن حدث حصل وانتهى في الماضي.",
