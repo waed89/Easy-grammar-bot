@@ -425,4 +425,259 @@ grammar_db = {
             "correct_answer": 2
         }
     }
+,
+"be going to": {
+    "explanation": "تُستخدم للتعبير عن نية أو خطة مستقبلية مؤكدة.",
+    "examples": [
+        "I am going to study tonight.",
+        "She is going to travel next week.",
+        "They are going to watch a movie."
+    ],
+    "quiz": {
+        "question": "وش الجملة المستقبلية؟",
+        "options": [
+            "I am going to sleep.",
+            "I sleeping now.",
+            "I go sleep."
+        ],
+        "correct_answer": 1
+    }
+},
+"passive voice": {
+    "explanation": "تُستخدم لجعل التركيز على الفعل أو المفعول به بدلاً من الفاعل.",
+    "examples": [
+        "The cake was made by my mom.",
+        "The car is washed every day.",
+        "English is spoken worldwide."
+    ],
+    "quiz": {
+        "question": "وش الجملة في صيغة passive؟",
+        "options": [
+            "He cleans the room.",
+            "The room is cleaned.",
+            "He is cleaning the room."
+        ],
+        "correct_answer": 2
+    }
+},
+"conditionals": {
+    "explanation": "تُستخدم للتحدث عن شروط ونتائجها.",
+    "examples": [
+        "If it rains, we will stay home.",
+        "If I study, I will pass.",
+        "If you heat ice, it melts."
+    ],
+    "quiz": {
+        "question": "وش الجملة الصحيحة؟",
+        "options": [
+            "If I will study, I pass.",
+            "If I study, I will pass.",
+            "If I studied, I will pass."
+        ],
+        "correct_answer": 2
+    }
+},
+"used to": {
+    "explanation": "تُستخدم للتعبير عن شيء كنا نفعله في الماضي ولم نعد نفعله.",
+    "examples": [
+        "I used to play outside.",
+        "She used to have long hair.",
+        "They used to travel a lot."
+    ],
+    "quiz": {
+        "question": "وش الجملة الصحيحة؟",
+        "options": [
+            "I use to play.",
+            "I used to playing.",
+            "I used to play."
+        ],
+        "correct_answer": 3
+    }
+},
+"too / enough": {
+    "explanation": "'Too' تعني جداً لدرجة زائدة، 'enough' تعني كافٍ.",
+    "examples": [
+        "It’s too cold to swim.",
+        "She is old enough to drive.",
+        "The bag is too heavy."
+    ],
+    "quiz": {
+        "question": "وش الجملة الصحيحة؟",
+        "options": [
+            "He is too young drive.",
+            "He is young enough to drive.",
+            "He is old enough to drive."
+        ],
+        "correct_answer": 3
+    }
+},
+"quantifiers": {
+    "explanation": "كلمات تُستخدم لتحديد الكمية مثل: much, many, a lot of",
+    "examples": [
+        "I have a lot of friends.",
+        "There isn’t much time.",
+        "She has many books."
+    ],
+    "quiz": {
+        "question": "وش الجملة الصحيحة؟",
+        "options": [
+            "I have much books.",
+            "She has many book.",
+            "She has many books."
+        ],
+        "correct_answer": 3
+    }
+},
+"reported speech": {
+    "explanation": "تُستخدم لنقل كلام شخص آخر بشكل غير مباشر.",
+    "examples": [
+        "He said he was tired.",
+        "She told me she would help.",
+        "They said they were coming."
+    ],
+    "quiz": {
+        "question": "وش الجملة reported؟",
+        "options": [
+            "He said, 'I am tired.'",
+            "He said he was tired.",
+            "He says he tired."
+        ],
+        "correct_answer": 2
+    }
+},
+"wish": {
+    "explanation": "تُستخدم للتعبير عن رغبة في تغيير شيء غير حقيقي أو مستحيل.",
+    "examples": [
+        "I wish I were taller.",
+        "She wishes she had a car.",
+        "We wish we could go."
+    ],
+    "quiz": {
+        "question": "وش الجملة الصحيحة؟",
+        "options": [
+            "I wish I am rich.",
+            "I wish I was rich.",
+            "I wish I were rich."
+        ],
+        "correct_answer": 3
+    }
+},
+"either / neither": {
+    "explanation": "'Either' تعني واحد من الاثنين، 'Neither' تعني لا هذا ولا ذاك.",
+    "examples": [
+        "Either you or your brother must come.",
+        "Neither of them knows the answer.",
+        "I don’t like either option."
+    ],
+    "quiz": {
+        "question": "وش الجملة الصحيحة؟",
+        "options": [
+            "Neither of them know the answer.",
+            "Neither of them knows the answer.",
+            "Either of them are good."
+        ],
+        "correct_answer": 2
+    }
+},
+"relative clauses": {
+    "explanation": "تُستخدم لإضافة معلومات باستخدام who, which, that",
+    "examples": [
+        "The girl who is singing is my friend.",
+        "This is the book that I like.",
+        "He is the teacher which teaches math."
+    ],
+    "quiz": {
+        "question": "وش الجملة الصحيحة؟",
+        "options": [
+            "This is the boy which I met.",
+            "This is the boy who I met.",
+            "This is the boy when I met."
+        ],
+        "correct_answer": 2
+    }
+},
+"gerunds": {
+    "explanation": "Gerund هو الفعل المضاف له -ing ويعمل كاسم.",
+    "examples": [
+        "Swimming is fun.",
+        "I enjoy reading.",
+        "She loves dancing."
+    ],
+    "quiz": {
+        "question": "وش الجملة اللي فيها gerund؟",
+        "options": [
+            "I enjoy to read.",
+            "I enjoy reading.",
+            "I reading enjoy."
+        ],
+        "correct_answer": 2
+    }
+},
+"infinitives": {
+    "explanation": "Infinitive هو الفعل المسبق بـ to، مثل to eat، to go.",
+    "examples": [
+        "I want to sleep.",
+        "She needs to study.",
+        "They hope to win."
+    ],
+    "quiz": {
+        "question": "وش الجملة فيها infinitive؟",
+        "options": [
+            "He wants studying.",
+            "He wants to study.",
+            "He want to study."
+        ],
+        "correct_answer": 2
+    }
+},
+"tag questions": {
+    "explanation": "عبارات قصيرة تُضاف بعد الجمل لتأكيد أو نفي.",
+    "examples": [
+        "You’re coming, aren’t you?",
+        "She is here, isn’t she?",
+        "They didn’t leave, did they?"
+    ],
+    "quiz": {
+        "question": "وش الجملة الصحيحة؟",
+        "options": [
+            "He is tired, isn’t he?",
+            "He is tired, isn’t it?",
+            "He is tired, is he?"
+        ],
+        "correct_answer": 1
+    }
+},
+"present perfect continuous": {
+    "explanation": "تُستخدم للتعبير عن فعل بدأ في الماضي ولازال مستمرًا.",
+    "examples": [
+        "I have been studying for 2 hours.",
+        "She has been working all day.",
+        "They have been playing since morning."
+    ],
+    "quiz": {
+        "question": "وش الجملة present perfect continuous؟",
+        "options": [
+            "She has worked.",
+            "She is working.",
+            "She has been working."
+        ],
+        "correct_answer": 3
+    }
+},
+"future continuous": {
+    "explanation": "يصف فعل سيكون مستمرًا في وقت معين في المستقبل.",
+    "examples": [
+        "I will be studying at 8 PM.",
+        "She will be sleeping.",
+        "They will be working late."
+    ],
+    "quiz": {
+        "question": "وش الجملة future continuous؟",
+        "options": [
+            "I will be sleeping.",
+            "I will sleep.",
+            "I sleep."
+        ],
+        "correct_answer": 1
+    }
 }
