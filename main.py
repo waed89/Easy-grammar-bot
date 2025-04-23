@@ -6,7 +6,8 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 from grammar_data import grammar_db
 import random
 
-TOKEN = "7390296832:AAFZtTOK6JlxJ9WR3tI07HE8Mw56b1MSoTs"
+import os
+TOKEN = os.getenv("BOT_TOKEN")
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
